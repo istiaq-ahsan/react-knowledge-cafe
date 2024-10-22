@@ -1,10 +1,10 @@
 [
     {
         "id": 101,
-        "cover": "../src/assets/images/1.jpg",
+        "cover": "https://i.ibb.co.com/r7z0d8k/1.jpg",
         "title": "the future of ai",
         "author": "sarah johnson",
-        "author_img": "../src/assets/images/boy1.png",
+        "author_img": "https://i.ibb.co.com/h78sNLr/boy1.png",
         "posted_date": "2024-09-20",
         "reading_time": 5,
         "hashtags": [
@@ -15,10 +15,10 @@
     },
     {
         "id": 102,
-        "cover": "../src/assets/images/2.png",
+        "cover": "https://i.ibb.co.com/fYkBYLD/2.png",
         "title": "mastering javascript in 2024",
         "author": "john doe",
-        "author_img": "../src/assets/images/boy2.png",
+        "author_img": "https://i.ibb.co.com/nQn3MMk/boy2.jpg",
         "posted_date": "2024-10-01",
         "reading_time": 8,
         "hashtags": [
@@ -29,10 +29,10 @@
     },
     {
         "id": 103,
-        "cover": "../src/assets/images/3.png",
+        "cover": "https://i.ibb.co.com/pyBqytn/3.png",
         "title": "sustainable architecture",
         "author": "emily davis",
-        "author_img": "../src/assets/images/girl1.jpg",
+        "author_img": "https://i.ibb.co.com/PG7jxJV/girl1.jpg",
         "posted_date": "2024-08-15",
         "reading_time": 6,
         "hashtags": [
@@ -43,10 +43,10 @@
     },
     {
         "id": 104,
-        "cover": "../src/assets/images/4.jpg",
+        "cover": "https://i.ibb.co.com/XWBrwGK/4.jpg",
         "title": "react vs. angular: which one to choose?",
         "author": "mark thompson",
-        "author_img": "../src/assets/images/girl2.jpg",
+        "author_img": "https://i.ibb.co.com/kMd7Bfh/girl2.jpg",
         "posted_date": "2024-09-29",
         "reading_time": 7,
         "hashtags": [
