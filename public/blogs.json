@@ -1,0 +1,72 @@
+[
+    {
+        "id": 101,
+        "cover": "https://example.com/covers/cover1.jpg",
+        "title": "the future of ai",
+        "author": "sarah johnson",
+        "author_img": "https://example.com/authors/sarah.jpg",
+        "posted_date": "2024-09-20",
+        "reading_time": 5,
+        "hashtags": [
+            "#ai",
+            "#technology",
+            "#future"
+        ]
+    },
+    {
+        "id": 102,
+        "cover": "https://example.com/covers/cover2.jpg",
+        "title": "mastering javascript in 2024",
+        "author": "john doe",
+        "author_img": "https://example.com/authors/john.jpg",
+        "posted_date": "2024-10-01",
+        "reading_time": 8,
+        "hashtags": [
+            "#javascript",
+            "#webdevelopment",
+            "#programming"
+        ]
+    },
+    {
+        "id": 103,
+        "cover": "https://example.com/covers/cover3.jpg",
+        "title": "sustainable architecture",
+        "author": "emily davis",
+        "author_img": "https://example.com/authors/emily.jpg",
+        "posted_date": "2024-08-15",
+        "reading_time": 6,
+        "hashtags": [
+            "#architecture",
+            "#sustainability",
+            "#greenbuilding"
+        ]
+    },
+    {
+        "id": 104,
+        "cover": "https://example.com/covers/cover4.jpg",
+        "title": "react vs. angular: which one to choose?",
+        "author": "mark thompson",
+        "author_img": "https://example.com/authors/mark.jpg",
+        "posted_date": "2024-09-29",
+        "reading_time": 7,
+        "hashtags": [
+            "#react",
+            "#angular",
+            "#frontend"
+        ]
+    },
+    {
+        "id": 105,
+        "cover": "https://example.com/covers/cover5.jpg",
+        "title": "the rise of electric vehicles",
+        "author": "lisa moore",
+        "author_img": "https://example.com/authors/lisa.jpg",
+        "posted_date": "2024-10-18",
+        "reading_time": 4,
+        "hashtags": [
+            "#electricvehicles",
+            "#sustainability",
+            "#innovation"
+        ]
+    }
+]
