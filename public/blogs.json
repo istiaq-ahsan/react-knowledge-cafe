@@ -1,10 +1,10 @@
 [
     {
         "id": 101,
-        "cover": "https://example.com/covers/cover1.jpg",
+        "cover": "../src/assets/images/1.jpg",
         "title": "the future of ai",
         "author": "sarah johnson",
-        "author_img": "https://example.com/authors/sarah.jpg",
+        "author_img": "../src/assets/images/boy1.png",
         "posted_date": "2024-09-20",
         "reading_time": 5,
         "hashtags": [
@@ -15,10 +15,10 @@
     },
     {
         "id": 102,
-        "cover": "https://example.com/covers/cover2.jpg",
+        "cover": "../src/assets/images/2.png",
         "title": "mastering javascript in 2024",
         "author": "john doe",
-        "author_img": "https://example.com/authors/john.jpg",
+        "author_img": "../src/assets/images/boy2.png",
         "posted_date": "2024-10-01",
         "reading_time": 8,
         "hashtags": [
@@ -29,10 +29,10 @@
     },
     {
         "id": 103,
-        "cover": "https://example.com/covers/cover3.jpg",
+        "cover": "../src/assets/images/3.png",
         "title": "sustainable architecture",
         "author": "emily davis",
-        "author_img": "https://example.com/authors/emily.jpg",
+        "author_img": "../src/assets/images/girl1.jpg",
         "posted_date": "2024-08-15",
         "reading_time": 6,
         "hashtags": [
@@ -43,30 +43,16 @@
     },
     {
         "id": 104,
-        "cover": "https://example.com/covers/cover4.jpg",
+        "cover": "../src/assets/images/4.jpg",
         "title": "react vs. angular: which one to choose?",
         "author": "mark thompson",
-        "author_img": "https://example.com/authors/mark.jpg",
+        "author_img": "../src/assets/images/girl2.jpg",
         "posted_date": "2024-09-29",
         "reading_time": 7,
         "hashtags": [
             "#react",
             "#angular",
             "#frontend"
-        ]
-    },
-    {
-        "id": 105,
-        "cover": "https://example.com/covers/cover5.jpg",
-        "title": "the rise of electric vehicles",
-        "author": "lisa moore",
-        "author_img": "https://example.com/authors/lisa.jpg",
-        "posted_date": "2024-10-18",
-        "reading_time": 4,
-        "hashtags": [
-            "#electricvehicles",
-            "#sustainability",
-            "#innovation"
         ]
     }
 ]
